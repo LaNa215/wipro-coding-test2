@@ -5,7 +5,7 @@ node_modules/
 ## Coverage directory used by tools like istanbul
 /coverage/
 /*.css
-/*.js
+/**/.js
 /*.png
 /*.html
 
